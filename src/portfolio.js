@@ -10,7 +10,7 @@ const about = {
   role: 'Back End Engineer',
   description:
     'Experienced Software Engineer proficient in Node.js and TypeScript, with over two years of hands-on experience in backend development and skilled in working with multiple databases.',
-  resume: 'https://rupenchitroda.github.io/portfolio/cv.pdf',
+  resume: 'https://rupenchitroda.github.io/portfolio/rupenchitroda_cv.pdf',
   social: {
     linkedin: 'https://linkedin.com/in/rupenchitroda',
     github: 'https://github.com/rupenchitroda',
